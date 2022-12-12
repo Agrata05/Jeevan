@@ -33,7 +33,7 @@ The backend was developed in <a href="http://nodejs.org" target="_blank">Node.js
 # Installation
 1. Clone repository:
 ```bash
-$ git clone https://github.com/AbhishekSrivas114319/Chiranjeev.git
+$ git clone https://github.com/Agrata05/Jeevan.git
 ```
 
 2. Install dependencies:
