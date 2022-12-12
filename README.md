@@ -13,7 +13,7 @@ On the other hand, Hospitals can register themselves in the app and request plas
 
 ## How we built it
 The frontend was implemented in <a href="https://reactjs.org/" target="_blank">React.js</a>, using <a href="https://www.figma.com/" target="_blank">Figma</a> for design and layout, and <a href="https://www.axios.com/" target="_blank">Axios</a> to consume the backend.<br>
-The backend was developed in <a href="http://nodejs.org" target="_blank">Node.js</a> and <a href="https://expressjs.com/" target="_blank">Express.js</a>. Using some middlewares like <a href="https://jwt.io/" target="_blank">jwt</a>, to generate tokens, cors to enable the external ports for the frontend. And we keep the information in a <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>..
+The backend was developed in <a href="http://nodejs.org" target="_blank">Node.js</a> and <a href="https://expressjs.com/" target="_blank">Express.js</a>. Using some middlewares like <a href="https://jwt.io/" target="_blank">Jwt</a>, to generate tokens, cors to enable the external ports for the frontend. And we keep the information in a <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>..
 
 ## Screenshots of the project:
 
@@ -52,4 +52,4 @@ npm start
 ## Stay In Touch
 
 * Author - [Agrata Tiwari](https://www.linkedin.com/in/agrata-tiwari-0511/) & [Abhishek Srivas](https://www.linkedin.com/in/abhishek-srivas-8421611a1)
-* Website - [Jeevan](https://jeevan01.netlify.app/)
+* Website - [https://jeevan01.netlify.app/](https://jeevan01.netlify.app/)
